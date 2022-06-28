@@ -1,0 +1,18 @@
+.div{
+    background-color: black;
+}
+.imgs{
+    height: 500px;
+    width: 300px;
+}
+
+.color{
+    /* background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); */
+    background: linear-gradient(0.25turn, red, white, blue);
+}
+.img{
+    height: 100px;
+}
+.i{
+    height: 300px;
+}
